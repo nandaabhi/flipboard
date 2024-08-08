@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Avenir'; /* Give your font a name */
+    src: url('Avenir Next Condensed Medium.ttf') format('truetype'); /* TrueType Font */
+}
+@font-face {
+    font-family: 'play'; /* Give your font a name */
+    src: url('PlayfairDisplay-VariableFont_wght.ttf') format('truetype'); /* TrueType Font */
+}
